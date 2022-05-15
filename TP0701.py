@@ -4,8 +4,6 @@
 # de error y volverle a pedir el numero las veces que sea necesario, en caso de que el valor 
 # ingresado sea incorrecto.
 
-print()
-
 tupla = (1, 2, 3, 4, 5, 6)
 
 while True:
@@ -15,4 +13,6 @@ while True:
     else:
         print(tupla[i])
     continue
+
+
 
